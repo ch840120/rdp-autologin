@@ -1,2 +1,2 @@
 # rdp-autologin
-Window遠端自動登入
+Windows遠端自動登入
