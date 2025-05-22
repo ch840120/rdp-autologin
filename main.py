@@ -33,6 +33,7 @@ rdp_content = f'''
 full address:s:{ip_port}
 authentication level:i:2
 prompt for credentials:i:0
+use multimon:i:1
 '''
 
 rdp_file = "temp_auto_login.rdp"  # .rdp 設定檔檔名
