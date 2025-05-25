@@ -1,4 +1,4 @@
-# 🚀 rdp-autologin 
+# 👨‍💻 rdp-autologin 
 
 自動化 Windows 遠端桌面連線（RDP）與帳號密碼自動填寫腳本  
 ✨ 支援一鍵清除所有 RDP 憑證（帳密快取與主機記憶）  
